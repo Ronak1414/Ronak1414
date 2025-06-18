@@ -2,7 +2,7 @@
 <h3 align="center">Engineer | AI Enthusiast | Innovator | Tech Writer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F9FF&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Engineer;Building+cool+AI+Agents+%F0%9F%A4%96;Tech+Writer+%F0%9F%93%9A;Hackathon+Winner+%F0%9F%8F%86;Python+%7C+Django+%7C+OpenCV+%7C+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F9FF&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Engineer;Building+cool+AI+Agents+%F0%9F%A4%96;Tech+Writer+%F0%9F%93%9A;Hackathon+Winner+%F0%9F%8F%86;Python+%7C+%7C+OpenCV+%7C+Cloud" alt="Typing SVG" />
 </p>
 
 ---

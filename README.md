@@ -69,14 +69,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronak1414&show_icons=true&theme=react&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronak1414&theme=react" height="170"/>
-</p>
-
----
 
 ### 📫 Connect with Me
 

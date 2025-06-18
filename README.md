@@ -72,17 +72,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronak-dev&show_icons=true&theme=react&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronak-dev&theme=react" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ronak1414&show_icons=true&theme=react&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronak1414&theme=react" height="170"/>
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronak-jain-b70362249/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ronakofficial1414@gmail.com)
+
 
 ---
 

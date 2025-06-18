@@ -9,7 +9,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 ** B.Tech - AI & Data Science**, REVA University  
+- 🎓 **B.Tech - AI & Data Science**, REVA University  
 - 🏆 **Best Outgoing Student - Batch of 2025**  
 - 🇮🇳 Represented **India in Robotics** at RoboCup Junior Summer Camp, Thailand  
 - 💻 Currently a **Technology Specialist Apprentice @ Microsoft**  
